@@ -1,0 +1,43 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+~$*
+
+# Power BI temporary files
+*.pbix.autosave
+*.pbit.autosave
+*.pbix.tmp
+*.pbix.bak
+*.lock
+*.lck
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.xls
+~$*.csv
+~$*.docx
+~$*.pptx
+
+# Editor settings
+.vscode/
+.idea/
+
+# Credentials and environment files
+.env
+.env.*
+*.key
+*.pem
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
